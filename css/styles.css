@@ -242,3 +242,10 @@ textarea {
 .contacts {
   text-align: center;
 }
+.section-divider {
+  border: none;
+  border-top: 3px solid #333;      
+  width: 100%;                      
+  margin: 20px 0;                  
+}
+
